@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Form } from "react-bootstrap";
 import SpotifyWebApi from "spotify-web-api-node";
 
-import useAuth from "./useAuth";
+import useAuth from "../useAuth";
 import Player from "./Player";
 import TrackItem from "./TrackItem.js";
 

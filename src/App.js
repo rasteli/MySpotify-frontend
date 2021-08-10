@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import Login from "./Login";
-import Dashboard from "./Dashboard";
+import Login from "./components/Login";
+import Dashboard from "./components/Dashboard";
 
 import "./App.css";
 
